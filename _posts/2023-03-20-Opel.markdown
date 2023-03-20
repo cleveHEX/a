@@ -1,17 +1,22 @@
 ---
 layout: post
-title:  "Kódování vozidel Opel"
+title:  "Vozidla Opel"
 date:   2023-03-20 20:32:19 +0100
 categories: jekyll Opel
 ---
-Podporujeme vozy Opel až do modelového roku 2012. Níže uvádíme příklady funkcí, které umíme dovybavit a nakódovat.
+Podporujeme vozy Opel až do modelového roku 2012. Provádíme čtení + mazání chyb, zjištování bezpečnostního kódu a kódování jednotek. Níže uvádíme příklady funkcí, které umíme dovybavit a nakódovat.
 
 #### Astra H/Zafira B
 * Palubní počítač
 * Tempomat
 * Zamčení při rozjetí vozu
 * Denní svícení
+* Komfortní ovládání oken (na klíči)
 * Hlášení prasklé žárovky
 * Vstup AUX
 * Vypnutí varování o namrzlé vozovce
+* Vyhřívání sedaček
+
+#### Vectra C/Corsa C
+* Výměna rádia a displeje a kabeláže u předfacelift za pofacelift
 
