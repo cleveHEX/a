@@ -30,7 +30,12 @@ url: "https://crny.eu" # the base hostname & protocol for your site, e.g. http:/
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
+
+header_pages:
+  - automatizace.markdown
+  - auta.markdown
+  - about.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
