@@ -21,7 +21,7 @@
 title: CRNY proton
 email: cleverline1mc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Služby automatizace a kódování aut.
+  Služby automatizace a úpravy automobilů.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://crny.eu" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -34,7 +34,7 @@ plugins:
 
 header_pages:
   - automatizace.markdown
-  - auta.markdown
+  - automotive.markdown
   - about.markdown
 
 # Exclude from processing.
