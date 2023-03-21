@@ -34,7 +34,7 @@ plugins:
 
 header_pages:
   - automatizace.markdown
-  - automotive.markdown
+  - auta.markdown
   - about.markdown
 
 # Exclude from processing.
