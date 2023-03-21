@@ -6,3 +6,8 @@ categories: automotive FordAMazda
 ---
 
 Provádíme čtení + mazání chyb, zjištování bezpečnostního kódu a konfigurování jednotek.  
+
+#### Ford Focus 3. generace
+* Asistent rozjezdu do kopce
+* Přepnutí systému kontroly tlaku z TPMS na DDS
+* Denní svícení
