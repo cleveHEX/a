@@ -2,7 +2,7 @@
 layout: post
 title:  "Vozidla Opel"
 date:   2023-03-20 20:00:00 +0100
-categories: automotive Opel
+categories: automotive
 ---
 Podporujeme vozy Opel až do modelového roku 2012. Provádíme čtení + mazání chyb, zjištování bezpečnostního kódu a konfigurování jednotek. Níže uvádíme příklady funkcí, které umíme dovybavit a nakonfigurovat.
 
@@ -21,4 +21,3 @@ Podporujeme vozy Opel až do modelového roku 2012. Provádíme čtení + mazán
 * Výměna rádia a displeje a kabeláže u předfacelift za pofacelift
 
 Další služby je možné poptat e-mailem.
-
