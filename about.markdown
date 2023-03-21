@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "O nás"
-permalink: /about/
+title: "Kontakt"
+permalink: /contact/
 ---
 
-Jsme tým mladých nadšenců do aut a IT.
+Tady bude formulář!

@@ -5,4 +5,8 @@
 layout: home
 ---
 
-Rooted
+Zabýváme se řešeními IT problémů v oblastech automatizace a automotive. Klademe důraz na:
+* Kvalitu - naše řešení jsou maximálně spolehlivá a bezpečná
+* Spokojenost - řešení bude přesně na míru zákazníka dle našich postupů
+* Rychlost a flexibilitu -  zákazníkovi vyřešíme problém dle jeho časových možností
+
