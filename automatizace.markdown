@@ -4,7 +4,7 @@ title: "Automatizace"
 permalink: /automatizace/
 ---
 
-Řešíme následující záležitosti:
+Řešíme:
 * Správa vytápění
 * Sledování objektu (senzory dveří, bran a oken; detektory pohybu, kamery)
 * Úspora energií (ovládání topení a světel podle přítomnosti osob)
