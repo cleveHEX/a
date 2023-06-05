@@ -5,10 +5,10 @@ date:   2023-03-21 9:00:00 +0100
 categories: automatizace
 ---
 
-Provádíme následné servisní úkony u bran značky **Roger**
-* Změna polohy koncových poloh a následná kalibrace
-* Přidání bezpečnostních čidel
+Provádíme servis bran značky **Roger**:
+* Změna koncových poloh nebo úhlů a následná kalibrace
+* Přidání bezpečnostních čidel (lišty a optické závory pro kontakt s překážkou)
 * Párování dálkového ovládání
-* Řešení dálkového ovládání pomocí telefonu (Wi-Fi, GSM)
-  * Párování brány s Google Home, Amazon Alexa, Home Assistant
-* Změna parametrů konfigurace dle přání zákazníka
+* Dálkové ovládání pomocí telefonu (Wi-Fi, GSM)
+  * Párování brány s Google Home, Amazon Alexa a Home Assistant
+* Změna parametrů konfigurace
