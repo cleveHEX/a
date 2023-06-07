@@ -38,7 +38,7 @@ minima:
 header_pages:
   - SaM/index.markdown
   - IoT/index.markdown
-  - auta.markdown
+  - auta/index.markdown
   - about.markdown
 
 # Exclude from processing.

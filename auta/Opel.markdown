@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: page
 title:  "Vozidla Opel"
-date:   2023-03-20 20:00:00 +0100
-categories: automotive
 ---
 Podporujeme vozy Opel až do modelového roku 2012. Provádíme čtení + mazání chyb, zjištování bezpečnostního kódu a konfigurování jednotek. Níže uvádíme příklady funkcí, které umíme dovybavit a nakonfigurovat.
 
