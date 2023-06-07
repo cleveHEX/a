@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Automatizace"
-permalink: /automatizace/
+title: "IoT"
 ---
 
 Řešíme:
@@ -11,5 +10,6 @@ permalink: /automatizace/
   * Automatické svícení
   * Ohřev vody a vytápění řízené pomocí přebytku a nedostatku elektřiny z FVE
   * Sledování spotřeby jednotlivých spotřebičů a okruhů
-* Dálkové ovládání objektu telefonem
+* Dálkové ovládání objektu přes Google Home, Amazon Alexa, Home Assistant a další systémy
+  * Aplikace pro ovládání pro telefon
   * Rolety, zásuvky, vytápění, světla, odemykání dveří a vrat
