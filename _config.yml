@@ -36,6 +36,7 @@ minima:
   skin: auto
 
 header_pages:
+  - SaM/index.markdown
   - IoT/index.markdown
   - auta.markdown
   - about.markdown
