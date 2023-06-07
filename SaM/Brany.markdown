@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Servis elektrických bran"
 ---
 
