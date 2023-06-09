@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "Vozidla Ford a Mazda"
-date:   2023-03-20 21:00:00 +0100
-categories: automotive
 ---
 
-Provádíme čtení + mazání chyb a konfigurování jednotek.  
+Provádíme čtení + mazání chyb a konfigurování jednotek.
 
 #### Ford Focus 3. generace
 * Asistent rozjezdu do kopce
