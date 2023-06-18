@@ -2,13 +2,14 @@
 layout: page
 title:  "Vozidla Opel"
 ---
-Podporujeme vozy Opel až do modelového roku 2012. Provádíme čtení + mazání chyb, zjišťujeme bezpečnostní kód a konfigurujeme jednotky. 
+Podporujeme vozy Opel až do modelového roku 2012. Provádíme čtení + mazání chyb, zjišťujeme bezpečnostní kód a konfigurujeme a párujeme jednotky. 
 
 ### Možné funkce
 #### Astra H/Zafira B/Corsa D
 * Palubní počítač
 * Tempomat
 * Zamčení při rozjetí vozu
+* Aktivace a deaktivace hlášení zapnutého pásu
 * Denní svícení
 * Komfortní ovládání oken (na klíči)
 * Hlášení prasklé žárovky a nedostatku provozních kapalin

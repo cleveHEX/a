@@ -3,7 +3,7 @@ layout: post
 title:  "Vozidla Ford a Mazda"
 ---
 
-Provádíme čtení + mazání chyb a konfigurování jednotek.
+Provádíme čtení + mazání chyb, konfiguraci a aktualizaci softwaru jednotek. Používáme nástroj Forscan, který má více funkcí než diagnostický nástroj autorizovaných servisů Ford.
 
 #### Ford Focus 3. generace
 * Asistent rozjezdu do kopce
