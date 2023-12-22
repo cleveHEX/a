@@ -2,7 +2,7 @@
 layout: page
 title:  "Vozidla Opel"
 ---
-Podporujeme vozy Opel až do modelového roku 2012. Provádíme čtení + mazání chyb, zjišťujeme bezpečnostní kód a konfigurujeme a párujeme jednotky. 
+Pracujeme s vozy Opel až do modelového roku 2012. Provádíme čtení + mazání chyb, zjišťujeme bezpečnostní kód, konfigurujeme a párujeme jednotky a dopňujeme výbavu.
 
 ### Možné funkce
 #### Astra H/Zafira B/Corsa D
@@ -16,6 +16,7 @@ Podporujeme vozy Opel až do modelového roku 2012. Provádíme čtení + mazán
 * Vstup AUX
 * Vypnutí varování o namrzlé vozovce
 * Vyhřívání sedaček
+* Dopnění senzoru kvality vzduchu
 * [Needle sweep](https://www.youtube.com/watch?v=9Z4dCAn1JkU) (k dispozici 5 variant)
 
 #### Vectra C/Corsa C

@@ -12,6 +12,7 @@ Provádíme čtení + mazání chyb, konfiguraci a aktualizaci softwaru jednotek
 * Tempomat
 * Velikost kol
 * Elektrické sklápění zrcátek
+* Doplnění modulu SYNC
 
 #### Ford Focus 2. generace
 * Komfortní ovládání oken (z klíče)
