@@ -4,6 +4,12 @@ title:  "Vozidla Opel"
 ---
 Pracujeme s vozy Opel až do modelového roku 2012. Provádíme čtení + mazání chyb, zjišťujeme bezpečnostní kód, konfigurujeme a párujeme jednotky a dopňujeme výbavu.
 
+### Opravy
+
+Zabýváme se opravami elektrických systémů vozu, máme zkušenosti zejména s:
+
+* Systém AFL/AHL - diagnostika systému a výměna nebo oprava jednotek, dle stavu
+
 ### Možné funkce
 #### Astra H/Zafira B/Corsa D
 * Palubní počítač
